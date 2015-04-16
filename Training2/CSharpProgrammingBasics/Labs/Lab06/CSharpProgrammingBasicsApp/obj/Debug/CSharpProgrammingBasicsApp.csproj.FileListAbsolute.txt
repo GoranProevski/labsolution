@@ -42,3 +42,14 @@ C:\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\D
 C:\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.frmMain.resources
 C:\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.Properties.Resources.resources
 C:\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.csproj.GenerateResource.Cache
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\bin\Debug\CSharpProgrammingBasicsApp.exe.config
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.exe
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.pdb
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\bin\Debug\CSharpProgrammingBasicsApp.exe
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\bin\Debug\CSharpProgrammingBasicsApp.pdb
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\bin\Debug\CSharpProgrammingBasicsClasses.dll
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\bin\Debug\CSharpProgrammingBasicsClasses.pdb
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.csprojResolveAssemblyReference.cache
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.frmMain.resources
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.Properties.Resources.resources
+C:\Lab\labsolution\Training2\CSharpProgrammingBasics\Labs\Lab06\CSharpProgrammingBasicsApp\obj\Debug\CSharpProgrammingBasicsApp.csproj.GenerateResource.Cache

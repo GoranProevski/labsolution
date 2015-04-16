@@ -465,6 +465,8 @@ namespace CSharpProgrammingBasicsApp
 
                 IDepositAccount da = new DepositAccount(tp, ir, sd, ed, trAcc, txtCurrency.Text);
 
+                da.OnBalanceChanged += HandleBalanceChange;
+
                 return (T)da;
 
             }
